@@ -7,3 +7,4 @@ The mission is two find all pairs by minimum flip counts.
 ## Features
 * Complex logic is well-structured
 * Adaptable layout
+* Different themes are available
